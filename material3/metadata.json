@@ -1,1 +1,88 @@
-{"tfjsVersion":"1.3.1","tmVersion":"2.4.7","packageVersion":"0.8.4-alpha2","packageName":"@teachablemachine/image","timeStamp":"2023-11-07T02:47:45.784Z","userMetadata":{},"modelName":"Material3","labels":["Bottom app bars","Bottom sheets","Cards","Checkboxes","Chips","Date picker","FABs","Menu","Menu List","Navigation bars","Navigation rails","Progress indicators","Search","Segmented buttons","Side sheets","Sliders","Tabs","Time picker","Tooltips"],"imageSize":224}
+{
+    "tfjsVersion": "1.3.1",
+    "tmVersion": "2.4.7",
+    "packageVersion": "0.8.4-alpha2",
+    "packageName": "@teachablemachine/image",
+    "timeStamp": "2023-11-07T02:47:45.784Z",
+    "userMetadata": {},
+    "modelName": "Material3",
+    "labels": [
+        {
+            "name": "Bottom app bars",
+            "url": "https://m3.material.io/components/bottom-app-bar"
+        },
+        {
+            "name": "Bottom sheets",
+            "url": "https://m3.material.io/components/bottom-sheets"
+        },
+        {
+            "name": "Cards",
+            "url": "https://m3.material.io/components/cards"
+        },
+        {
+            "name": "Checkboxes",
+            "url": "https://m3.material.io/components/checkbox"
+        },
+        {
+            "name": "Chips",
+            "url": "https://m3.material.io/components/chips"
+        },
+        {
+            "name": "Date picker",
+            "url": "https://m3.material.io/components/date-pickers"
+        },
+        {
+            "name": "FABs",
+            "url": "https://m3.material.io/components/floating-action-button"
+        },
+        {
+            "name": "Menu",
+            "url": "https://m3.material.io/components/menus"
+        },
+        {
+            "name": "Menu List",
+            "url": "https://m3.material.io/components/lists"
+        },
+        {
+            "name": "Navigation bars",
+            "url": "https://m3.material.io/components/navigation-bar"
+        },
+        {
+            "name": "Navigation rails",
+            "url": "https://m3.material.io/components/navigation-rail"
+        },
+        {
+            "name": "Progress indicators",
+            "url": "https://m3.material.io/components/progress-indicators"
+        },
+        {
+            "name": "Search",
+            "url": "https://m3.material.io/components/search"
+        },
+        {
+            "name": "Segmented buttons",
+            "url": "https://m3.material.io/components/segmented-buttons"
+        },
+        {
+            "name": "Side sheets",
+            "url": "https://m3.material.io/components/side-sheets"
+        },
+        {
+            "name": "Sliders",
+            "url": "https://m3.material.io/components/sliders"
+        },
+        {
+            "name": "Tabs",
+            "url": "https://m3.material.io/components/tabs"
+        },
+        {
+            "name": "Time picker",
+            "url": "https://m3.material.io/components/time-pickers"
+        },
+        {
+            "name": "Tooltips",
+            "url": "https://m3.material.io/components/tooltips"
+        }
+    ],
+    "imageSize": 224
+}
