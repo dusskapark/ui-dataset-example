@@ -1,0 +1,148 @@
+{
+    "labels": [
+        {
+            "id": 1,
+            "name": "Accordion"
+        },
+        {
+            "id": 2,
+            "name": "App Bar"
+        },
+        {
+            "id": 3,
+            "name": "Avatar"
+        },
+        {
+            "id": 4,
+            "name": "Badge"
+        },
+        {
+            "id": 5,
+            "name": "Banner"
+        },
+        {
+            "id": 6,
+            "name": "Bottom navigation"
+        },
+        {
+            "id": 7,
+            "name": "Bottom sheet"
+        },
+        {
+            "id": 8,
+            "name": "Buttons"
+        },
+        {
+            "id": 9,
+            "name": "Card"
+        },
+        {
+            "id": 10,
+            "name": "Dropdown"
+        },
+        {
+            "id": 11,
+            "name": "Enter amount"
+        },
+        {
+            "id": 12,
+            "name": "Filter and sort"
+        },
+        {
+            "id": 13,
+            "name": "Icon"
+        },
+        {
+            "id": 14,
+            "name": "Link"
+        },
+        {
+            "id": 15,
+            "name": "List items"
+        },
+        {
+            "id": 16,
+            "name": "Modal loader"
+        },
+        {
+            "id": 17,
+            "name": "Nudge"
+        },
+        {
+            "id": 18,
+            "name": "OTP"
+        },
+        {
+            "id": 19,
+            "name": "Onboarding Stories"
+        },
+        {
+            "id": 20,
+            "name": "Progress Tracker"
+        },
+        {
+            "id": 21,
+            "name": "Quick Actions"
+        },
+        {
+            "id": 22,
+            "name": "Quick Select"
+        },
+        {
+            "id": 23,
+            "name": "Section Header"
+        },
+        {
+            "id": 24,
+            "name": "Segmented Control"
+        },
+        {
+            "id": 25,
+            "name": "Selection controls"
+        },
+        {
+            "id": 26,
+            "name": "Slider"
+        },
+        {
+            "id": 27,
+            "name": "Snackbar"
+        },
+        {
+            "id": 28,
+            "name": "Status"
+        },
+        {
+            "id": 29,
+            "name": "Super carousel"
+        },
+        {
+            "id": 30,
+            "name": "Super header"
+        },
+        {
+            "id": 31,
+            "name": "Tab"
+        },
+        {
+            "id": 32,
+            "name": "Tag"
+        },
+        {
+            "id": 33,
+            "name": "Text Field"
+        },
+        {
+            "id": 34,
+            "name": "Thumbnail"
+        },
+        {
+            "id": 35,
+            "name": "Tile"
+        },
+        {
+            "id": 36,
+            "name": "Tooltip"
+        }
+    ]
+}
